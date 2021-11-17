@@ -1,1 +1,10 @@
 # Fifa-football-World-cups-data-analysis
+
+This project is to analyze Fifa world cups data. The insights from these analyses will support the questions and answers regarding the world cup inquire.
+
+Python 3 was used in this project by supporting below libraries:
+- numpy
+- pandas
+- matplotlibt
+- seaborn 
+- IPython 
