@@ -8,3 +8,8 @@ Python 3 was used in this project by supporting below libraries:
 - matplotlibt
 - seaborn 
 - IPython 
+
+
+
+A blog for the project analysis can be found in the below link:
+https://medium.com/@almohalwi22/fifa-world-cup-data-insights-b19ff54f8f06
